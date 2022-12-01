@@ -12,6 +12,11 @@
 
 <img src='imgs/catsdogs2.jpg' height='300' width='350'><img src='imgs/catsdogs2_masked.jpg' height='300' width='350'>
 
+<br></br>
+
+Model comparison overview
+
+<img src='imgs/model_comparison.png' height='300' width='850'>
 
 
 <!-- <img src='imgs/colormap.png' height='500' width='350'>
