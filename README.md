@@ -6,7 +6,6 @@
 [![Git page](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=https://reejungkim.github.io/)](https://reejungkim.github.io/)
 <br></br>
 
-
 <img src='imgs/people-street-city.jpg' height='400' width='250'><img src='imgs/people-street-city_masked.jpg' height='400' width='250'><img src='imgs/people-street-city_masked_coco.jpg' height='400' width='250'>
 
 
@@ -17,6 +16,10 @@
 Model comparison overview
 
 <img src='imgs/model_comparison.png' height='300' width='850'>
+
+
+## Reference
+[transformers for image recognition](https://arxiv.org/pdf/2010.11929.pdf)
 
 
 <!-- <img src='imgs/colormap.png' height='500' width='350'>
