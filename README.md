@@ -13,13 +13,18 @@
 
 <br></br>
 
-Model comparison overview
 
+
+Model comparison overview
 <img src='imgs/model_comparison.png' height='300' width='850'>
 
 
+Vision transformer
+<img src='imgs/vit_explained.png' height='300' width='350'>
+
 ## Reference
 [transformers for image recognition](https://arxiv.org/pdf/2010.11929.pdf)
+
 
 
 <!-- <img src='imgs/colormap.png' height='500' width='350'>
