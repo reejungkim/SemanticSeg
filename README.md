@@ -20,6 +20,7 @@ Model comparison overview
 
 
 Vision transformer
+
 <img src='imgs/vit_explained.png' height='300' width='350'>
 
 ## Reference
