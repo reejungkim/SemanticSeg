@@ -23,8 +23,16 @@ Vision transformer
 
 <img src='imgs/vit_explained.png' height='300' width='350'>
 
+
+Performance Evaluation
+- Mean Intersection-over-Union
+intersection = np.logical_and(target, prediction)
+union = np.logical_or(target, prediction)
+iou_score = np.sum(intersection) / np.sum(union)
+
 ## Reference
 [transformers for image recognition](https://arxiv.org/pdf/2010.11929.pdf)
+
 
 
 
